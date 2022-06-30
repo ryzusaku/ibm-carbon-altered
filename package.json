@@ -1,0 +1,31 @@
+{
+    "name": "ibm-carbon-altered",
+    "displayName": "IBM Carbon Altered",
+    "description": "It is IBM Carbon Color Theme by exotech with some changes.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "ibm",
+        "carbon",
+        "ibm theme",
+        "purple",
+        "pink",
+        "color",
+        "theme",
+        "python"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "IBM Carbon Altered Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/IBM Carbon Altered Theme-color-theme.json"
+            }
+        ]
+    }
+}

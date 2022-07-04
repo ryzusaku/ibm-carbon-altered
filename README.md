@@ -1,2 +1,4 @@
 # README
-## This is modified version of IBM Carbon Color Theme from exotech
+This is modified version of IBM Carbon Color Theme from eXotech
+#
+

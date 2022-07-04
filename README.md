@@ -1,14 +1,21 @@
 # README
 This is modified version of IBM Carbon Color Theme from eXotech
-#
 ## SCREENSHOTS
+## Python:
+<img src="https://github.com/ryzusaku/ibm-carbon-altered/blob/master/img/ibmcapython.png?raw=true" height="512"/>
+
 ##
-[JavaScript](https://github.com/ryzusaku/ibm-carbon-altered/blob/master/img/ibmcajs.png?raw=true)
+## JavaScript:
+<img src="https://github.com/ryzusaku/ibm-carbon-altered/blob/master/img/ibmcajs.png?raw=true" height="512"/>
+
 ##
-[Python](https://github.com/ryzusaku/ibm-carbon-altered/blob/master/img/ibmcapython.png?raw=true)
+## C#:
+<img src="https://github.com/ryzusaku/ibm-carbon-altered/blob/master/img/ibmcacs.png?raw=true" height="512"/>
+
 ##
-[html](https://github.com/ryzusaku/ibm-carbon-altered/blob/master/img/ibmcahtml.png?raw=true)
+## HTML:
+<img src="https://github.com/ryzusaku/ibm-carbon-altered/blob/master/img/ibmcahtml.png?raw=true" height="512"/>
+
 ##
-[css](https://github.com/ryzusaku/ibm-carbon-altered/blob/master/img/ibmcacss.png?raw=true)
-##
-[C#](https://github.com/ryzusaku/ibm-carbon-altered/blob/master/img/ibmcacs.png?raw=true)
+## CSS:
+<img src="https://github.com/ryzusaku/ibm-carbon-altered/blob/master/img/ibmcacss.png?raw=true" height="512"/>
